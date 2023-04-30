@@ -1,0 +1,20 @@
+{
+  "name": "furo-sdk-ts",
+  "version": "1.0.0",
+  "description": "Typescript SDK for Furo",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "buffer": "^6.0.3"
+  }
+}
